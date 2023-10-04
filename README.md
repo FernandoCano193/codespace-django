@@ -14,3 +14,6 @@ To run this application:
 ```python
 python manage.py runserver
 ```
+
+# link de los modelos en django
+https://docs.djangoproject.com/en/4.2/topics/db/models/
